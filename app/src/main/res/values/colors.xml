@@ -1,0 +1,30 @@
+<?xm version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="purple_primary">#05123E</color>
+    <color name="purple_secondary">#422C83</color>
+    <color name="cyan_accent">#00E5FF</color>
+    <color name="bluebutton">#3B54C4</color>
+    <color name="icon_active">#05123E</color>      <!-- Example: White -->
+    <color name="icon_inactive">#FFB0B0B0</color>    <!-- Example: Gray -->
+    <color name="primary_blue">#FF007BFF</color>     <!-- Example: A shade of blue -->
+    <color name="background_white">#FFFFFFFF</color>
+
+    <!-- Background -->
+    <color name="background_light">#F5F5F5</color>
+    <color name="white">#FFFFFF</color>
+
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Status Bar -->
+    <color name="status_bar">#1A1B55</color>
+
+    <!-- Additional Colors -->
+    <color name="black">#000000</color>
+    <color name="gray_light">#E0E0E0</color>
+    <color name="success">#4CAF50</color>
+    <color name="error">#F44336</color>
+</resources>

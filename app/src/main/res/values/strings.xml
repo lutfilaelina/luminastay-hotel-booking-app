@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Lumina Stay</string>
+    <string name="hotel_name">Hotel Lumina Stay</string>
+    <string name="welcome_text">Selamat Datang di</string>
+
+    <!-- Login & Register -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Daftar</string>
+    <string name="no_account">Belum punya akun? Daftar</string>
+    <string name="have_account">Sudah punya akun? Login</string>
+    <string name="name">Nama Lengkap</string>
+    <string name="confirm_password">Konfirmasi Password</string>
+
+    <!-- Room List -->
+    <string name="available_rooms">Kamar Tersedia</string>
+    <string name="per_night">/ malam</string>
+    <string name="detail">Detail</string>
+
+    <!-- Room Detail -->
+    <string name="room_facilities">Fasilitas Kamar</string>
+    <string name="book_now">Pesan Sekarang</string>
+    <string name="check_in">Check-in</string>
+    <string name="check_out">Check-out</string>
+    <string name="select_date">Pilih Tanggal</string>
+    <string name="confirm_booking">Konfirmasi Pemesanan</string>
+    <string name="total_price">Total Harga</string>
+
+    <!-- Booking History -->
+    <string name="booking_history">Riwayat Booking</string>
+    <string name="no_bookings">Belum ada pemesanan</string>
+    <string name="status_confirmed">Terkonfirmasi</string>
+    <string name="status_pending">Menunggu</string>
+
+    <!-- Profile -->
+    <string name="profile">Profil</string>
+    <string name="edit_profile">Edit Profil</string>
+    <string name="logout">Logout</string>
+    <string name="save">Simpan</string>
+
+    <!-- Navigation -->
+    <string name="home">Beranda</string>
+    <string name="history">Riwayat</string>
+    <string name="booking">Booking</string>
+    <string name="favorite">Favorit</string>
+    <string name="nav_profile">Profil</string>
+
+    <!-- Search & Filter -->
+    <string name="search_hint">Cari kamar, harga, atau lokasi...</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Urutkan</string>
+    <string name="sort_price_asc">Harga: Terendah</string>
+    <string name="sort_price_desc">Harga: Tertinggi</string>
+    <string name="sort_rating">Rating Tertinggi</string>
+    <string name="filter_type">Tipe Kamar</string>
+    <string name="filter_price_range">Rentang Harga</string>
+    <string name="apply_filter">Terapkan Filter</string>
+    <string name="clear_filter">Hapus Filter</string>
+
+    <!-- Favorite -->
+    <string name="add_to_favorite">Tambahkan ke Favorit</string>
+    <string name="remove_from_favorite">Hapus dari Favorit</string>
+    <string name="no_favorites">Belum ada kamar favorit</string>
+    <string name="favorite_added">Ditambahkan ke favorit</string>
+    <string name="favorite_removed">Dihapus dari favorit</string>
+
+    <!-- Rating & Review -->
+    <string name="rating">Rating</string>
+    <string name="reviews">Ulasan</string>
+    <string name="write_review">Tulis Ulasan</string>
+    <string name="your_rating">Rating Anda</string>
+    <string name="your_comment">Komentar Anda</string>
+    <string name="submit_review">Kirim Ulasan</string>
+    <string name="review_submitted">Ulasan berhasil dikirim</string>
+    <string name="no_reviews">Belum ada ulasan</string>
+
+    <!-- Dark Mode -->
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="light_mode">Mode Terang</string>
+
+    <!-- Messages -->
+    <string name="login_success">Login berhasil</string>
+    <string name="register_success">Registrasi berhasil</string>
+    <string name="booking_success">Pemesanan berhasil</string>
+    <string name="fill_all_fields">Mohon isi semua field</string>
+    <string name="password_not_match">Password tidak cocok</string>
+    <string name="invalid_email">Email tidak valid</string>
+
+    <!-- Layanan -->
+    <string name="layanan_tambahan">Layanan Tambahan</string>
+    <string name="riwayat_layanan">Riwayat Layanan</string>
+    <string name="tambah_ke_keranjang">Tambah ke Keranjang</string>
+    <string name="checkout">Checkout</string>
+    <string name="keranjang_kosong">Keranjang kosong</string>
+    <string name="pesanan_berhasil">Pesanan berhasil!</string>
+
+    <!-- Promo Code -->
+    <string name="kode_promo">Kode Promo</string>
+    <string name="kode_promo_opsional">Kode Promo (Opsional)</string>
+    <string name="diskon">Diskon</string>
+    <string name="total_akhir">Total Akhir</string>
+    <string name="kode_promo_tidak_valid">Kode promo tidak valid</string>
+
+    <!-- Location -->
+    <string name="lokasi_hotel">Lokasi Hotel</string>
+    <string name="lihat_di_google_maps">Lihat di Google Maps</string>
+</resources>

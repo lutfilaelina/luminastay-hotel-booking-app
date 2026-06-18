@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Shape Appearance Overlay Styles -->
+    <style name="ShapeAppearanceOverlay.CornerSize12" parent="ShapeAppearance.MaterialComponents">
+        <item name="cornerSize">12dp</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay.CornerSize8" parent="ShapeAppearance.MaterialComponents">
+        <item name="cornerSize">8dp</item>
+    </style>
+</resources>
+
