@@ -8,6 +8,8 @@ Proyek ini dikembangkan sebagai implementasi pengembangan aplikasi mobile menggu
 
 ---
 
+<<<<<<< HEAD
+=======
 ## Tampilan Aplikasi
 
 ### Banner Aplikasi
@@ -45,6 +47,7 @@ Fitur tambahan yang memungkinkan pengguna memesan layanan hotel seperti makanan 
 
 ---
 
+>>>>>>> 9bffffe (Add application screenshots to README)
 ## Latar Belakang
 
 Perkembangan teknologi mobile telah mengubah cara masyarakat melakukan reservasi hotel. Pengguna kini menginginkan proses pemesanan yang cepat, mudah, dan dapat dilakukan kapan saja melalui smartphone.
