@@ -8,8 +8,6 @@ Proyek ini dikembangkan sebagai implementasi pengembangan aplikasi mobile menggu
 
 ---
 
-<<<<<<< HEAD
-=======
 ## Tampilan Aplikasi
 
 ### Banner Aplikasi
@@ -18,8 +16,6 @@ Proyek ini dikembangkan sebagai implementasi pengembangan aplikasi mobile menggu
   <img src="docs/images/LiminaStay-banner.png" width="800">
 </p>
 
-Tampilan banner aplikasi LuminaStay yang menampilkan identitas dan konsep layanan pemesanan hotel berbasis Android.
-
 ### Halaman Login dan Registrasi
 
 <p align="center">
@@ -27,15 +23,11 @@ Tampilan banner aplikasi LuminaStay yang menampilkan identitas dan konsep layana
   <img src="docs/images/preview-UI-signup.jpeg" width="250">
 </p>
 
-Halaman autentikasi yang memungkinkan pengguna melakukan login maupun registrasi akun sebelum mengakses layanan aplikasi.
-
 ### Halaman Beranda
 
 <p align="center">
   <img src="docs/images/preview-UI-beranda.jpeg" width="250">
 </p>
-
-Halaman utama aplikasi yang menampilkan daftar kamar hotel, informasi promo, dan fitur navigasi utama untuk memudahkan pengguna dalam melakukan reservasi.
 
 ### Fitur Pemesanan Layanan Hotel
 
@@ -43,11 +35,8 @@ Halaman utama aplikasi yang menampilkan daftar kamar hotel, informasi promo, dan
   <img src="docs/images/preview-fitur-pemesanan-layanan.jpeg" width="250">
 </p>
 
-Fitur tambahan yang memungkinkan pengguna memesan layanan hotel seperti makanan dan minuman secara langsung melalui aplikasi.
-
 ---
 
->>>>>>> 9bffffe (Add application screenshots to README)
 ## Latar Belakang
 
 Perkembangan teknologi mobile telah mengubah cara masyarakat melakukan reservasi hotel. Pengguna kini menginginkan proses pemesanan yang cepat, mudah, dan dapat dilakukan kapan saja melalui smartphone.
